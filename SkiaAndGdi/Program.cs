@@ -2,7 +2,7 @@
 using SkiaAndGdi.Gdi;
 using SkiaAndGdi.Skia;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace SkiaAndGdi
 {
 	internal class SkiaAndGdi
 	{
