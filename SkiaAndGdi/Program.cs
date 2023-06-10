@@ -1,5 +1,4 @@
-﻿using SkiaAndGdi;
-using SkiaAndGdi.Gdi;
+﻿using SkiaAndGdi.Gdi;
 using SkiaAndGdi.Skia;
 
 namespace SkiaAndGdi
